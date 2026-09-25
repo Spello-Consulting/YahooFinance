@@ -13,6 +13,8 @@ dependencies = [
     "yfinance>=0.2.61",
 ]
 
+[tool.pyutil]
+managed_scripts = ["launch.sh"]
 
 [dev.env.sync]
 remote="~/Library/CloudStorage/Dropbox/Development/dev_setup/app_config/YahooFinance"
