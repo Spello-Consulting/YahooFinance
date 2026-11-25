@@ -19,7 +19,7 @@ Yahoo:
   Interval: 1d
 
 Files:
-  OutputCSV: data/yahoo_prices.csv
+  OutputCSV: "/Users/nick/Library/CloudStorage/Dropbox/DevFinance/SecurityPrices/yahoo_prices.csv"
   LogfileName: logs/logfile.log
   LogfileMaxLines: 200
   # How much information do we write to the log file. One of: none; error; warning; summary; detailed; debug; all
